@@ -1,0 +1,32 @@
+
+
+.container {
+	padding-left: 30%;
+	margin: 50 auto;
+}
+p {
+	font-size: 18px;
+	margin: 25px 0;
+	line-height: 1.4;
+	letter-spacing: 1px;
+	color: #434343;
+}
+
+h1 {
+	font-size: 45px;
+	margin: 50px 0 0;
+	letter-spacing: 1.3px;
+}
+
+h2 {
+	font-size: 22px;
+	margin: 5px 0 50px 0;
+	letter-spacing: 0.7px;
+	color: #434343;
+}
+
+.autors {
+	font-size: 14px;
+	margin: 50px 0 100px;
+	color: black;
+}
