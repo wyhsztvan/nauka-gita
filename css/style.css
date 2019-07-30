@@ -24,3 +24,23 @@ h2 {
 	letter-spacing: 0.7px;
 	color: #434343;
 }
+.autors {
+	font-size: 14px;
+	margin: 50px 0 5px;
+	color: black;
+}
+.link {
+	font-size: 14px;
+	margin: 0 0 100px;
+}
+a:active, a:visited {
+	color: #434343;
+	text-decoration: none;
+}
+a:link {
+	color: #434343;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
